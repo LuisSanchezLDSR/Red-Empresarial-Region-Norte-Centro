@@ -13,6 +13,8 @@ El enfoque principal del diseño es la **continuidad del negocio (Business Conti
 ---
 
 ##  Topología y Diseño de Red
+<img width="852" height="537" alt="Topologia" src="https://github.com/user-attachments/assets/9be60dad-6fb1-4cac-8374-bb6fa3dfc57f" />
+
 
 ### Estrategia de Direccionamiento (VLSM & IPv6)
 Se implementó un diseño de subredes escalable (Dual-Stack IPv4/IPv6)[cite: 1]:
